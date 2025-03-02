@@ -1,0 +1,15 @@
+Business Problems:
+
+1. Churn Prediction – Why are some users canceling their subscriptions?  
+
+2. User Engagement – How does engagement vary across different subscription plans?  
+
+3. Device Preference – Which devices do users prefer for streaming, and how does it impact retention?  
+
+4. Genre Popularity – What are the most popular content genres among different age groups?  
+
+5. Customer Support Impact – Does interacting with customer support affect a user’s churn rate?  
+
+6. Subscription Plan Analysis – Which plan (monthly or annual) is more popular among different user segments?  
+
+7. Feedback & Ratings – How do user ratings relate to churn and engagement levels?
